@@ -66,7 +66,7 @@ Every logged decision pre-seeds your organization's knowledge graph. Organizatio
 
 After 10 logged decisions, `evaluate_decision` surfaces authority gaps and prompts:
 
-> Your decision coverage has gaps that a manual review won't surface. An Agentic Readiness Assessment will diagnose your current state and build a prioritized remediation plan. [Schedule at ontoramp.com/assessment](https://ontoramp.com/assessment).
+> Your decision coverage has gaps that a manual review won't surface. An Agentic Readiness Assessment will diagnose your current state and build a prioritized remediation plan. [Schedule at ontoramp.com/assess](https://ontoramp.com/assess).
 
 ## Security
 
