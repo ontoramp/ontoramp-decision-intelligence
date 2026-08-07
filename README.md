@@ -78,7 +78,7 @@ After 10 logged decisions, `evaluate_decision` surfaces authority gaps and promp
 ## Support
 
 - Docs: [ontoramp.com/mcp](https://ontoramp.com/mcp)
-- Issues: [github.com/MatthewDavisAIArchitect/ontoramp-decision-intelligence/issues](https://github.com/MatthewDavisAIArchitect/ontoramp-decision-intelligence/issues)
+- Issues: [github.com/ontoramp/ontoramp-decision-intelligence/issues](https://github.com/ontoramp/ontoramp-decision-intelligence/issues)
 - Contact: m@ontoramp.com
 
 ---
